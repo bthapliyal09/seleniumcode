@@ -11,7 +11,7 @@ public class ArrayListExample2 {
 
 
 				ArrayList<String> aList = new ArrayList<String>();
-				aList.add("selenium");
+				aList.add("selenium123");
 				aList.add("10.0f");
 				System.out.println("Total count of List " + aList.size());
 				System.out.println("First value stored in the List" + aList.get(0));
