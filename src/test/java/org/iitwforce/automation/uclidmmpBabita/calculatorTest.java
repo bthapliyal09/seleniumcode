@@ -9,8 +9,8 @@ public class calculatorTest {
 	public void validateAdd()
 	{
 		calculator cal = new calculator();
-		int actual = cal.add(2,3);
-		int expected = 5;
+		int actual = cal.add(2,6);
+		int expected = 8;
 		Assert.assertEquals(actual, expected);
 	}
 }
